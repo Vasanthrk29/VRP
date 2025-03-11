@@ -39,7 +39,7 @@ The objective is to **minimize the total distance traveled** and **ensure a bala
 ## 📌 How to Run the Project
 1. **Clone the repository**
    ```bash
-   https://github.com/Vasanthrk29/VRP.git
+   git clone https://github.com/Vasanthrk29/VRP.git
    
    cd VRP
    ```
